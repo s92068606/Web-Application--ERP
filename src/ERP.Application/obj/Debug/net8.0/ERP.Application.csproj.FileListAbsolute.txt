@@ -1,0 +1,15 @@
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.csproj.AssemblyReference.cache
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.AssemblyInfoInputs.cache
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.AssemblyInfo.cs
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.csproj.CoreCompileInputs.cache
+D:\project\Web-Application--ERP\src\ERP.Application\bin\Debug\net8.0\ERP.Application.deps.json
+D:\project\Web-Application--ERP\src\ERP.Application\bin\Debug\net8.0\ERP.Application.dll
+D:\project\Web-Application--ERP\src\ERP.Application\bin\Debug\net8.0\ERP.Application.pdb
+D:\project\Web-Application--ERP\src\ERP.Application\bin\Debug\net8.0\ERP.Domain.dll
+D:\project\Web-Application--ERP\src\ERP.Application\bin\Debug\net8.0\ERP.Domain.pdb
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Appl.DD782D7E.Up2Date
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.dll
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\refint\ERP.Application.dll
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.pdb
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ref\ERP.Application.dll

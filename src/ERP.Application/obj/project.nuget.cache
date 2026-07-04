@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "uAPfyYurvx0=",
+  "success": true,
+  "projectFilePath": "D:\\project\\Web-Application--ERP\\src\\ERP.Application\\ERP.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asna\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Asna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.AssemblyInfoInputs.cache
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.AssemblyInfo.cs
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.csproj.CoreCompileInputs.cache
+D:\project\Web-Application--ERP\src\ERP.Domain\bin\Debug\net8.0\ERP.Domain.deps.json
+D:\project\Web-Application--ERP\src\ERP.Domain\bin\Debug\net8.0\ERP.Domain.dll
+D:\project\Web-Application--ERP\src\ERP.Domain\bin\Debug\net8.0\ERP.Domain.pdb
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.dll
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\refint\ERP.Domain.dll
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.pdb
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ref\ERP.Domain.dll

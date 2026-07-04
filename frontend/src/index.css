@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #f8fafc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Mockup rounded frame button */
+.rounded-frame-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 8px;
+  border: 2px solid #374151; /* slate-700 */
+  padding: 0.35rem 0.75rem;
+  font-weight: 600;
+  color: #374151;
+  background: #ffffff;
+  box-shadow: inset 0 -6px 0 rgba(0,0,0,0.03);
+}
+
+/* Print helpers */
+@media print {
+  body { background: #ffffff; }
+  .no-print { display: none !important; }
+  .print-page { padding: 0; }
+  .rounded-frame-btn { display: none; }
+  .print-table th, .print-table td { border: 1px solid #000 !important; }
+}
+
+/* Toast */
+.toast-container { pointer-events: none; }
+.toast-container > div { pointer-events: auto; }
