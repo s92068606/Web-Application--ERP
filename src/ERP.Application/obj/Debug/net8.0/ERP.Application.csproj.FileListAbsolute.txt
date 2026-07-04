@@ -13,3 +13,4 @@ D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Applica
 D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\refint\ERP.Application.dll
 D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.pdb
 D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ref\ERP.Application.dll
+D:\project\Web-Application--ERP\src\ERP.Application\obj\Debug\net8.0\ERP.Application.sourcelink.json

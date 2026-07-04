@@ -9,3 +9,4 @@ D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.dll
 D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\refint\ERP.Domain.dll
 D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.pdb
 D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ref\ERP.Domain.dll
+D:\project\Web-Application--ERP\src\ERP.Domain\obj\Debug\net8.0\ERP.Domain.sourcelink.json

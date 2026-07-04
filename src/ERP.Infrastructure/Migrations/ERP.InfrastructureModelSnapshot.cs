@@ -9,7 +9,7 @@ using ERP.Infrastructure.Data;
 namespace ERP.Infrastructure.Migrations
 {
     [DbContext(typeof(ErpDbContext))]
-    partial class ERP.InfrastructureModelSnapshot : ModelSnapshot
+    partial class ERPInfrastructureModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {

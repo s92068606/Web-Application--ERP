@@ -17,3 +17,4 @@ D:\project\Web-Application--ERP\src\ERP.Infrastructure\obj\Debug\net8.0\refint\E
 D:\project\Web-Application--ERP\src\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.pdb
 D:\project\Web-Application--ERP\src\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.genruntimeconfig.cache
 D:\project\Web-Application--ERP\src\ERP.Infrastructure\obj\Debug\net8.0\ref\ERP.Infrastructure.dll
+D:\project\Web-Application--ERP\src\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.sourcelink.json
